@@ -1,6 +1,6 @@
 ---
 title: "Predictive Text Autofill"
-tags: [tool]
+tags: [machine-learning, tool]
 permalink: /projects/predictive-text-autofill
 date: 2019-08-14 06:00:09 -0400
 ---
