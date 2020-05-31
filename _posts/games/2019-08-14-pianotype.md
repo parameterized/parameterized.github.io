@@ -7,7 +7,7 @@ date: 2019-08-14 06:00:11 -0400
 
 *(Project from April 2019)*
 
-![](/img/projects/pianotype.gif)
+<a href="https://parameterized.github.io/pianotype/" target="_blank">![](/img/projects/pianotype.gif)</a>
 
 Rhythmic typing game
 

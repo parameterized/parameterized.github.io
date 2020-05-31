@@ -7,7 +7,7 @@ date: 2019-08-14 06:00:08 -0400
 
 *(Project from August 2018)*
 
-![](/img/projects/hold-me-back.gif)
+<a href="https://parameterized.itch.io/hold-me-back" target="_blank">![](/img/projects/hold-me-back.gif)</a>
 
 Counter the movement with your mouse for as long as you can.
 
