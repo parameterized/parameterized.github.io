@@ -1,1 +1,2 @@
-bundle exec jekyll serve
+call bundle exec jekyll serve
+pause
